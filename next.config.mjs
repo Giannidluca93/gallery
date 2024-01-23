@@ -3,8 +3,12 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        protocol: 'https',
-        hostname: 'interactive-examples.mdn.mozilla.net',
+        protocol: "https",
+        hostname: "interactive-examples.mdn.mozilla.net",
+      },
+      {
+        protocol: "https",
+        hostname: "fakeimg.pl",
       },
     ],
   },
