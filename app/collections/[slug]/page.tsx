@@ -2,8 +2,8 @@ import Image from "next/image";
 
 const CollectionsPage = () => {
   return (
-    <div className="min-h-screen text-center p-4">
-      <p className="mb-5">
+    <div className="min-h-screen text-center px-5">
+      <p className="my-20 text-2xl sm:text-3xl md:text-4xl">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum
         ipsa cum, a illum rem nemo corrupti dolorem laboriosam
       </p>

@@ -53,7 +53,7 @@ const dummyData = [
 
 const Gallery = () => {
   return (
-    <div className="grid grid-cols-1 gap-1">
+    <div className="grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-10 p-5">
       {dummyData.map(({ imageSrc, height, width, caption, alt }) => (
         <GalleryImage
           key={`${caption + Math.random()}`}
