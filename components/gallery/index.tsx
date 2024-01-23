@@ -1,52 +1,45 @@
 import GalleryImage from "../gallery-image";
-
 const dummyData = [
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
   {
-    imageSrc:
-      "https://interactive-examples.mdn.mozilla.net/media/cc0-images/elephant-660-480.jpg",
-    height: 300,
-    width: 300,
-    caption: "test",
+    imageSrc: "https:/fakeimg.pl/660x480",
+    height: 660,
+    width: 480,
+    caption: "Animals",
     alt: "test",
   },
 ];
