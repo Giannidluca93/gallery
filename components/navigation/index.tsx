@@ -20,10 +20,10 @@ const Navigation = () => {
         } absolute w-full mt-3 z-10 bg-slate-900 text-white p-5 right-0 flex flex-col md:flex-row md:relative md:p-0 md:bg-white md:text-black`}
       >
         <li className="p-3">
-          <Link href="/about">About Me</Link>
+          <Link onClick={() => setIsOpen(false)} href="/about">About Me</Link>
         </li>
         <li className="p-3">
-          <Link href="/contact">Contact</Link>
+          <Link onClick={() => setIsOpen(false)} href="/contact">Contact</Link>
         </li>
       </ul>
     </nav>
