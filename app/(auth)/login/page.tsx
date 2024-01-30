@@ -1,11 +1,11 @@
 const Login = () => {
   return (
-    <div className='w-full max-w-xs'>
+    <div className='w-full max-w-xs sm:max-w-2xl'>
       <form className='mb-4 rounded bg-white px-8 pb-8 pt-6 shadow-md'>
         <div className='mb-4'>
           <label
             className='mb-2 block text-sm font-bold text-gray-700'
-            for='username'
+            htmlFor='username'
           >
             Username
           </label>
