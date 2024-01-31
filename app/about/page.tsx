@@ -22,6 +22,9 @@ const About = () => {
           accusamus consectetur ducimus nihil quibusdam! Similique modi
           eligendi, non accusantium temporibus, cum necessitatibus corporis
           assumenda aperiam aspernatur magnam veritatis provident.
+          <p className='mt-3'>
+            contact: <span className='font-bold'>test@mail.com</span>
+          </p>
         </p>
       </div>
     </div>
