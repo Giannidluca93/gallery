@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 const About = () => {
   return (
-    <div className='flex max-w-5xl flex-col p-4'>
+    <div className='m-auto flex max-w-5xl flex-col p-4'>
       <h3 className='mb-4 text-2xl sm:mt-10 sm:text-4xl md:mt-20'>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas at,
         officia pariatur dolorum alias ex quisquam odit blanditiis amet deleniti
